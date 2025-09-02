@@ -2,7 +2,7 @@
 # Lab 01: Personal Portfolio
 
 **Student Name:** [Your Name Here]  
-**GitHub Username:** [Your GitHub Username]
+**GitHub Username:** [Your GitHub Username] 
 
 ## 📋 Lab Checklist
 
